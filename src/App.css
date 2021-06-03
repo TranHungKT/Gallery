@@ -1,0 +1,17 @@
+* { margin: 0; padding: 0;}
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #00000080;
+  flex-direction: column;
+
+}
+
+.ImageView {
+  display: flex;
+  flex-direction: row;
+  box-shadow: -4px 1px 11px -5px #000000
+}
